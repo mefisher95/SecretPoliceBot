@@ -37,5 +37,3 @@ async def tattle(ctx, message):
         await admin.send('Hey boss, {0.author.mention} is snitching on one of the goons for a thought crime. Want us to bust {1}?'.format(ctx, message))
 
 bot.run('Imagine there was a key here')
-
-# bot.run('OTU5MjAxOTY4MTc2Mzc3ODY2.YkYccg.JU5pGE5bI3on3miYj-XHxiWZt9Y')
